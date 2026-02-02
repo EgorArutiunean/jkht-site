@@ -1,6 +1,5 @@
 import { Footer } from './components/layout/Footer'
 import { Header } from './components/layout/Header'
-import { StickyContactBar } from './components/layout/StickyContactBar'
 import { About } from './components/sections/About'
 import { Contact } from './components/sections/Contact'
 import { HeroBrandbook } from './components/sections/HeroBrandbook'
@@ -29,3 +28,4 @@ function App() {
 }
 
 export default App
+import { StickyContactBar } from './components/layout/StickyContactBar'

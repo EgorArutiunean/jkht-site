@@ -4,6 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
+        white: '#ffffff',
+        black: '#000000',
         bg: 'var(--bg-main)',
         'bg-secondary': 'var(--bg-secondary)',
         surface: 'var(--bg-surface)',
